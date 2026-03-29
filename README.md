@@ -1,9 +1,13 @@
-## **KAN neural network & Quantum Machine Learning for ILPD datasets.**
+## **KAN Neural Network & Quantum Machine Learning for ILPD Dataset**
 
+Despite the global burden of **liver disease**, which causes approximately **two million deaths annually**, existing **Machine Learning (ML)** and **Quantum Machine Learning (QML)** diagnostic approaches often suffer from limited interpretability or suboptimal performance.
 
-Despite the global burden of **liver disease** causing **two million annual deaths**, current ML/QML diagnostics often lack interpretability or or suffer from suboptimal performance. 
+This paper introduces **KQML-Liver**, a novel hybrid framework that integrates **Quantum Machine Learning** with **Kolmogorov–Arnold Networks (KANs)** to enhance both **model transparency** and **predictive accuracy**.
 
-This paper introduces **KQML-Liver**, a hybrid framework combining **Quantum Machine Learning** with **Kolmogorov–Arnold Networks (KANs)** for enhanced transparency and superior predictive power. 
+The proposed model is evaluated on the **Indian Liver Patient Dataset (ILPD)** with strict **data leakage prevention protocols**. Experimental results demonstrate:
 
-Evaluated on the ILPD dataset with rigorous leakage prevention, the model achieves **82% accuracy** and a critical **100% recall**, 
-successfully detecting all positive cases while outperforming existing baselines.
+* **82% accuracy**
+* **100% recall**, successfully identifying all positive cases
+
+KQML-Liver not only achieves robust performance but also **outperforms existing baseline models**, making it a promising approach for reliable and interpretable liver disease diagnosis.
+
