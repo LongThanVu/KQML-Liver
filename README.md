@@ -1,4 +1,4 @@
-## **KAN Neural Network & Quantum Machine Learning for ILPD Dataset**
+![PCA, LDA, FA](https://github.com/user-attachments/assets/396973a2-739e-45de-aaef-9dcf5221cfc0)## **KAN Neural Network & Quantum Machine Learning for ILPD Dataset**
 
 Despite the global burden of **liver disease**, which causes approximately **two million deaths annually**, existing **Machine Learning (ML)** and **Quantum Machine Learning (QML)** diagnostic approaches often suffer from limited interpretability or suboptimal performance.
 
@@ -11,3 +11,4 @@ The proposed model is evaluated on the **Indian Liver Patient Dataset (ILPD)** w
 
 KQML-Liver not only achieves robust performance but also **outperforms existing baseline models**, making it a promising approach for reliable and interpretable liver disease diagnosis.
 
+![PCA, LDA, FA](https://github.com/user-attachments/assets/8ef755c4-fea8-463b-a005-27d609616d92)
