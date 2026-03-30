@@ -13,17 +13,17 @@ The proposed model is evaluated on the **Indian Liver Patient Dataset (ILPD)** w
 KQML-Liver not only achieves robust performance but also **outperforms existing baseline models**, making it a promising approach for reliable and interpretable liver disease diagnosis.
 
 ### **Main Contributions**: 
-Propse a **new strategy** for feature enrichment via nonlinear data transformations to enhance model performance:
+1. Propse a **new strategy** for feature enrichment via nonlinear data transformations to enhance model performance:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ef755c4-fea8-463b-a005-27d609616d92" width="700"/>
 </p>
 
-**Proposed KAN-Quantum framework:**
+2. **Proposed KAN-Quantum framework:**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ecc94308-5672-4930-982e-1ae2d31b1ae9" width="850"/>
 </p>
 
-Introduce a novel variant combining Effective Number of Classes (ENS) with **power scaling** to **improve weight** smoothing under **severe data imbalance and scarcity**
+3. Introduce a novel variant combining Effective Number of Classes (ENS) with **power scaling** to **improve weight** smoothing under **severe data imbalance and scarcity**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0cb14fd9-b6e6-4015-ace3-7e1c0cc2494b" width="600"/>
 </p>
