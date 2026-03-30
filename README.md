@@ -22,7 +22,6 @@ Propse a **new strategy** for feature enrichment via nonlinear data transformati
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ecc94308-5672-4930-982e-1ae2d31b1ae9" width="850"/>
 </p>
-**
 
 Introduce a novel variant combining Effective Number of Classes (ENS) with **power scaling** to **improve weight** smoothing under **severe data imbalance and scarcity**
 <p align="center">
