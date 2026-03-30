@@ -11,4 +11,6 @@ The proposed model is evaluated on the **Indian Liver Patient Dataset (ILPD)** w
 
 KQML-Liver not only achieves robust performance but also **outperforms existing baseline models**, making it a promising approach for reliable and interpretable liver disease diagnosis.
 
-<img src="https://github.com/user-attachments/assets/8ef755c4-fea8-463b-a005-27d609616d92" width="500"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ef755c4-fea8-463b-a005-27d609616d92" width="500"/>
+</p>
